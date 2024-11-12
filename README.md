@@ -4,7 +4,7 @@ What I'm Into:
 
 - Computational Physics & Materials Science
 - CPU Architectures & Development
-- Coding for Physics and Finance
+- Quant Finance
 
 My Tech Stack:
 
