@@ -1,1 +1,1 @@
-I use AI to make life easier and wonderful.
+Building real-world solutions with AI.
